@@ -1,30 +1,30 @@
- Experiment: Basic Operations on Arrays and Strings in C++
+# Experiment: Basic Operations on Arrays and Strings in C++
 
- ✅ Aim
+ ## ✅ Aim
 
 To write C++ programs that perform basic operations on:
 
-🔸 Arrays:
+**🔸 Arrays:**
 - Input and output of array elements  
 - Searching for an element  
 - Reversing the array  
 - Calculating the sum and average  
 - Finding the minimum and maximum elements  
 
-🔸 Strings:
+**🔸 Strings:**
 - Input and display of string  
 - Concatenation of strings  
 - Reversing a string  
 - Checking for palindrome  
 
- 📚 Theory:
+** 📚 Theory:**
  
- Arrays:
+** Arrays:**
 Arrays are linear data structures that store multiple values of the same type in contiguous memory locations. They allow **indexed access**, making operations like traversal, search, and updates fast and efficient.In this experiment, we practiced common array manipulations using loops, conditional logic, and arithmetic operations.
  Strings:
 Strings in C++ can be handled using character arrays (`char[]`) or the `string` class from the STL (Standard Template Library). The `string` class provides built-in functions for concatenation, length checking, character access, and more.These operations are crucial in text processing, data parsing, and solving problems related to pattern matching or manipulation.
 
-🧠 Algorithms Used
+**🧠 Algorithms Used**
 
  ✅ Arrays
 
@@ -52,7 +52,7 @@ Strings in C++ can be handled using character arrays (`char[]`) or the `string` 
 🔹 **Palindrome Check**  
 - Compare characters from both ends moving inward  * If all matching, it's a palindrome.
 
-  📝 Conclusion
+  **📝 Conclusion**
 
 This experiment strengthened my understanding of both **arrays** and **strings** — two of the most important building blocks in programming. I learned how to use **loops**, **conditions**, and **basic functions** to solve problems like:
 
